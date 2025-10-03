@@ -1,6 +1,3 @@
-# first_repo
-# **This is my first repo**
-### *I'm so excited*
-[Shakeel's Repositories](https://github.com)
-# Hello!
-![Offset Equation](https://github.com/Shakeel-I/first_repo/assets/149578012/42be4fb7-6175-46d5-b461-59561539a5ce)
+# Choosing the Correct Statistical Test in SAS
+
+<img width="985" height="833" alt="image" src="https://github.com/user-attachments/assets/63eead2e-a8cd-4b0a-88d0-6485ccb22277" />
